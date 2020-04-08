@@ -1,0 +1,25 @@
+{
+  "name": "firebase-reader",
+  "version": "1.0.0",
+  "description": "Simple firebase-storage reader example",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^7.13.2",
+    "xhr2": "^0.2.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmachs/firebase-reader.git"
+  },
+  "author": "enmachs@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enmachs/firebase-reader/issues"
+  },
+  "homepage": "https://github.com/enmachs/firebase-reader#readme"
+}
